@@ -1,0 +1,35 @@
+h2 {
+    color:red;
+    padding-left: 5px
+}
+.redborder   
+{ 
+    border: 2px red solid; 
+    margin:auto; 
+    background-color: lightgray; 
+    text-align:center;
+    width: 75%;
+}
+body {
+
+    background-image: url('../images/craneCC75opaque.jpg');
+    background-size: cover;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100px;
+    background-color: #5299D3;
+}
+nav li a {
+    display: block;
+    text-decoration: none;
+    text-color: #38023B;
+    padding: 20px
+}
+nav li a:hover {
+    color: #DCF2B0;
+    background-color: #4A4238
+}
